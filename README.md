@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rodrigoHM
+- 👋 Hi, I’m Rodrigo!
 - 👀 I’m interested in learning anything new!
-- 🌱 I’m currently learning more react js.
+- 🌱 I’m currently learning react js.
 - 💞️ I’m looking to collaborate on anything!
 <!---
 rodrigoHM/rodrigoHM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
