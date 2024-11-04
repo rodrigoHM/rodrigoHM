@@ -1,4 +1,3 @@
-Motivated and passionate developer focused on applying innovative solutions to software and hardware-based projects. Highly-skilled software developer bringing 2 years in software design and application development experience. Experienced in C#, Python, and Java. I strive to learn, explore, and tinker with new technology to solve problems ranging from mundane to challenging and create order out of chaos.
-
+Data analyst and mobile application developer with over 3 years of experience in leveraging technology to drive insights and enhance user experiences. I specialize in data analysis, SQL, and Python, with a strong background in machine learning and data visualization. I thrive in collaborative environments and am committed to continuous learning. Currently pursuing certifications in data analysis and Azure AI to further enhance my skill set. Let’s connect!
 
  [![HitCount](https://hits.dwyl.com/rodrigoHM/rodrigoHM.svg?style=flat-square)](http://hits.dwyl.com/rodrigoHM/rodrigoHM)
